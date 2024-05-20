@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="minecraft-snake">
+    <output-path>$USER_HOME$/Documents/Plugins</output-path>
+    <root id="archive" name="minecraft-snake.jar">
+      <element id="module-output" name="minecraft-snake" />
+    </root>
+  </artifact>
+</component>

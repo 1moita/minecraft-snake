@@ -1,0 +1,6 @@
+name: snake
+version: 1.0-SNAPSHOT
+author: giulianmoitinho@gmail.com
+main: net.moita.snake.Plugin
+commands:
+  snake:
